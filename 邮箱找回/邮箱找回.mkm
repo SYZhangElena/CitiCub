@@ -1,0 +1,32 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e9%82%ae%e7%ae%b1%e6%89%be%e5%9b%9e/%e9%82%ae%e7%ae%b1%e6%89%be%e5%9b%9e.psd">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="40" x="1089" y="214"/>
+    <LengthMark direction="3" color="16711680" length="628" x="1095" y="253"/>
+    <LengthMark direction="3" color="16711680" length="70" x="1112" y="253"/>
+    <LengthMark direction="3" color="16711680" length="26" x="1168" y="253"/>
+    <LengthMark direction="3" color="16711680" length="88" x="1128" y="323"/>
+    <LengthMark direction="12" color="16711680" length="702" x="1099" y="244"/>
+    <LengthMark direction="12" color="16711680" length="122" x="1324" y="322"/>
+    <LengthMark direction="12" color="16711680" length="230" x="1101" y="393"/>
+    <LengthMark direction="12" color="16711680" length="596" x="1144" y="540"/>
+    <LengthMark direction="12" color="16711680" length="46" x="1099" y="549"/>
+    <LengthMark direction="3" color="16711680" length="62" x="1132" y="550"/>
+    <LengthMark direction="3" color="16711680" length="70" x="1137" y="610"/>
+    <LengthMark direction="3" color="16711680" length="64" x="1129" y="679"/>
+    <LengthMark direction="3" color="16711680" length="74" x="1135" y="478"/>
+    <LengthMark direction="3" color="16711680" length="22" x="1213" y="433"/>
+    <LengthMark direction="12" color="16711680" length="598" x="1144" y="675"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1218" y="283" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;24px"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="1246" y="467" textMaxWidth="100" offsetX="42" offsetY="18" text="微软雅黑&#xD;23px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1471" y="711" textMaxWidth="100" offsetX="74" offsetY="50" text="微软雅黑&#xD;27px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1240" y="577" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;23px"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3355443" offsetX="52" offsetY="24" x="1256" y="689"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3133031" offsetX="25" offsetY="10" x="1424" y="282"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1366" y="222" textMaxWidth="100" offsetX="25" offsetY="10" text="此模块所有的绿色都为#2FCE67"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="12432818" offsetX="25" offsetY="15" x="1169" y="576"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1226" y="388" textMaxWidth="100" offsetX="56" offsetY="24" text="素材：圈1&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1446" y="399" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：圈2&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1667" y="394" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：圈3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="937" y="129" textMaxWidth="100" offsetX="25" offsetY="10" text="除了邮箱找回一栏，其他和“登录_注册_w”页面相同"/>
+  </Marks>
+</MKM>

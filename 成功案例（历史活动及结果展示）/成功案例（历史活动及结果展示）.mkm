@@ -1,0 +1,48 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e6%88%90%e5%8a%9f%e6%a1%88%e4%be%8b%ef%bc%88%e5%8e%86%e5%8f%b2%e6%b4%bb%e5%8a%a8%e5%8f%8a%e7%bb%93%e6%9e%9c%e5%b1%95%e7%a4%ba%ef%bc%89/%e6%88%90%e5%8a%9f%e6%a1%88%e4%be%8b%ef%bc%88%e5%8e%86%e5%8f%b2%e6%b4%bb%e5%8a%a8%e5%8f%8a%e7%bb%93%e6%9e%9c%e5%b1%95%e7%a4%ba%ef%bc%89.psd">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="3000" x="8" y="0"/>
+    <LengthMark direction="3" color="16711680" length="2444" x="32" y="99"/>
+    <LengthMark direction="3" color="16711680" length="46" x="225" y="99"/>
+    <LengthMark direction="3" color="16711680" length="65" x="189" y="144"/>
+    <LengthMark direction="3" color="16711680" length="64" x="194" y="211"/>
+    <LengthMark direction="3" color="16711680" length="64" x="192" y="328"/>
+    <LengthMark direction="3" color="16711680" length="50" x="227" y="275"/>
+    <LengthMark direction="12" color="16711680" length="200" x="-1" y="144"/>
+    <LengthMark direction="12" color="16711680" length="30" x="198" y="178"/>
+    <LengthMark direction="12" color="16711680" length="113" x="280" y="168"/>
+    <LengthMark direction="12" color="16711680" length="30" x="198" y="233"/>
+    <LengthMark direction="12" color="16711680" length="70" x="323" y="237"/>
+    <LengthMark direction="12" color="16711680" length="76" x="391" y="151"/>
+    <LengthMark direction="12" color="16711680" length="114" x="393" y="218"/>
+    <LengthMark direction="3" color="16711680" length="40" x="386" y="157"/>
+    <LengthMark direction="3" color="16711680" length="40" x="384" y="223"/>
+    <LengthMark direction="12" color="16711680" length="34" x="554" y="176"/>
+    <LengthMark direction="12" color="16711680" length="34" x="621" y="242"/>
+    <LengthMark direction="12" color="16711680" length="22" x="466" y="175"/>
+    <LengthMark direction="12" color="16711680" length="30" x="198" y="345"/>
+    <LengthMark direction="12" color="16711680" length="78" x="293" y="354"/>
+    <LengthMark direction="3" color="16711680" length="60" x="221" y="393"/>
+    <LengthMark direction="12" color="16711680" length="26" x="566" y="471"/>
+    <LengthMark direction="12" color="16711680" length="362" x="205" y="436"/>
+    <LengthMark direction="3" color="16711680" length="456" x="200" y="452"/>
+    <LengthMark direction="3" color="16711680" length="72" x="219" y="907"/>
+    <LengthMark direction="3" color="16711680" length="54" x="222" y="2488"/>
+    <LengthMark direction="12" color="16711680" length="94" x="595" y="23"/>
+    <LengthMark direction="3" color="16711680" length="16" x="698" y="-1"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="473" y="453" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：案例1"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="742" y="463" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：案例2"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1151" y="457" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：案例3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1478" y="459" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：案例4"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="421" y="90" textMaxWidth="100" offsetX="25" offsetY="10" text="其他蓝色也为#2493D3"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="0" offsetX="25" offsetY="10" x="520" y="349"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="608" y="172" textMaxWidth="100" offsetX="25" offsetY="10" text="#6c6c6c"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="244" y="167" textMaxWidth="100" offsetX="57" offsetY="57" text="微软雅黑&#xD;22px&#xD;"/>
+    <ColorMark defaultDirection="5" colorSystem="hex" direction="5" color="16711680" targetColor="15925247" offsetX="40" offsetY="31" x="415" y="170"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="687" y="35" textMaxWidth="100" offsetX="25" offsetY="10" text="此时，导航栏中，“成功案例”被选中，成为蓝色"/>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="1819" y="43" textMaxWidth="100" offsetX="25" offsetY="10" text="当登录后，此处变为“我的”"/>
+    <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="2397139" offsetX="81" offsetY="10" x="605" y="7"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="267" y="341" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;22px"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="281" y="368" textMaxWidth="100" offsetX="25" offsetY="16" text="素材：箭头&#xD;"/>
+    <LengthMark direction="12" color="16711680" length="8" x="272" y="358"/>
+  </Marks>
+</MKM>

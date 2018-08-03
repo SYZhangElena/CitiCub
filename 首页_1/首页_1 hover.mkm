@@ -1,0 +1,19 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e9%a6%96%e9%a1%b5_1/%e9%a6%96%e9%a1%b5_1%20hover.psd">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="10" color="16711680" targetColor="2397139" offsetX="65" offsetY="35" x="527" y="9"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="668" y="47" textMaxWidth="100" offsetX="49" offsetY="24" text="鼠标悬停时"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="1496" y="47" textMaxWidth="100" offsetX="86" offsetY="27" text="鼠标悬停在字符上时"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1729" y="132" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停在APP或手机图标上，方块下滑"/>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="1813" y="32" textMaxWidth="100" offsetX="21" offsetY="14" text="鼠标悬停在注册或登录上，四个字和竖线一起变蓝"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="35" y="388" textMaxWidth="100" offsetX="25" offsetY="10" text="素材return"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="35" y="340" textMaxWidth="100" offsetX="41" offsetY="21" text="鼠标悬停在整张海报上，出现return箭头"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="19" y="291" textMaxWidth="100" offsetX="63" offsetY="36" text="鼠标悬停在方块区域时，出现方块"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="47" y="437" textMaxWidth="100" offsetX="25" offsetY="10" text="不透明度：40%&#xD;颜色：bfbfbf"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="536" y="1510" textMaxWidth="100" offsetX="37" offsetY="20" text="鼠标悬停时&#xD;"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="487" y="1631" textMaxWidth="100" offsetX="121" offsetY="49" text="鼠标悬停在卡片上时，出现阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="837" y="3539" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停时"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="753" y="3789" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停时"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1710" y="226" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：&#xD;手机PPT二维码"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="276" y="36" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：LOGO"/>
+  </Marks>
+</MKM>

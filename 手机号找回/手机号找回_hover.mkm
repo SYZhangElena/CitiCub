@@ -1,0 +1,9 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e6%89%8b%e6%9c%ba%e5%8f%b7%e6%89%be%e5%9b%9e/%e6%89%8b%e6%9c%ba%e5%8f%b7%e6%89%be%e5%9b%9e_hover.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1423" y="280" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，变为绿色"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3395952" offsetX="54" offsetY="28" x="1347" y="278"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1663" y="558" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，增加阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1739" y="693" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，增加阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1730" y="819" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，增加阴影"/>
+  </Marks>
+</MKM>

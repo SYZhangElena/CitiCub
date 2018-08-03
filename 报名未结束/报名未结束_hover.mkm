@@ -1,0 +1,9 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e6%8a%a5%e5%90%8d%e6%9c%aa%e7%bb%93%e6%9d%9f/%e6%8a%a5%e5%90%8d%e6%9c%aa%e7%bb%93%e6%9d%9f_hover.psd">
+  <Marks>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="178" y="278" textMaxWidth="100" offsetX="37" offsetY="7" text="任务类型，任务阶段，排序栏&#xD;悬浮样式参考“成功案例”页面"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="236" y="530" textMaxWidth="100" offsetX="47" offsetY="32" text="悬浮时，此栏变色"/>
+    <ColorMark defaultDirection="5" colorSystem="hex" direction="5" color="16711680" targetColor="15463931" offsetX="57" offsetY="10" x="230" y="548"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="707" y="2006" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，变为蓝色#2493D3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1423" y="2017" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，变为蓝色#2493D3"/>
+  </Marks>
+</MKM>

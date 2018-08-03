@@ -1,0 +1,11 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e7%99%bb%e5%bd%95_%e6%b3%a8%e5%86%8c_w/%e7%99%bb%e5%bd%95_%e6%b3%a8%e5%86%8c_w%20hover.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1535" y="333" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，边框外阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1510" y="594" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，按钮外阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1659" y="541" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，字体出现下划线"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1663" y="694" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，出现下划线"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="1321" y="805" textMaxWidth="100" offsetX="48" offsetY="19" text="悬停时，变为彩色图片&#xD;素材：QQ"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="1454" y="811" textMaxWidth="100" offsetX="20" offsetY="15" text="悬停时，变为彩色图片&#xD;素材：微信&#xD;"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="1574" y="807" textMaxWidth="100" offsetX="43" offsetY="25" text="悬停时，变为彩色图片&#xD;素材：微博&#xD;"/>
+  </Marks>
+</MKM>

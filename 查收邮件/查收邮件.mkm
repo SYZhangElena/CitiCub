@@ -1,0 +1,17 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e6%9f%a5%e6%94%b6%e9%82%ae%e4%bb%b6/%e6%9f%a5%e6%94%b6%e9%82%ae%e4%bb%b6.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1451" y="399" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：圈2（绿）"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1350" y="618" textMaxWidth="100" offsetX="108" offsetY="39" text="微软雅黑&#xD;26px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1471" y="720" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;22px"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8288881" offsetX="25" offsetY="10" x="1256" y="617"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3198827" offsetX="25" offsetY="10" x="1527" y="623"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8288881" offsetX="25" offsetY="10" x="1352" y="719"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1341" y="174" textMaxWidth="100" offsetX="25" offsetY="10" text="除了标注的地方，其他地方和“邮箱找回”页面相同"/>
+    <LengthMark direction="3" color="16711680" length="136" x="1185" y="479"/>
+    <LengthMark direction="3" color="16711680" length="76" x="1327" y="641"/>
+    <LengthMark direction="12" color="16711680" length="92" x="1101" y="627"/>
+    <LengthMark direction="12" color="16711680" length="222" x="1100" y="725"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1511" y="137" textMaxWidth="100" offsetX="25" offsetY="10" text="此页面没有设计hover&#xD;且当在邮箱上确认后，自动跳转到邮箱找回的重置密码页面"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="1176" y="457" textMaxWidth="100" offsetX="40" offsetY="14" text="微软雅黑&#xD;23px&#xD;#33D170"/>
+  </Marks>
+</MKM>

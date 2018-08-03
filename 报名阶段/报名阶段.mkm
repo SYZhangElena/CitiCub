@@ -1,0 +1,12 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web%20PSD%e6%96%87%e4%bb%b6/%e6%8a%a5%e5%90%8d%e9%98%b6%e6%ae%b5/%e6%8a%a5%e5%90%8d%e9%98%b6%e6%ae%b5.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="871" y="153" textMaxWidth="100" offsetX="25" offsetY="10" text="未标注部分参考“报名截止”页面"/>
+    <LengthMark direction="3" color="16711680" length="42" x="1111" y="303"/>
+    <LengthMark direction="12" color="16711680" length="110" x="1114" y="294"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1207" y="330" textMaxWidth="100" offsetX="25" offsetY="10" text="19.5px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="657" y="409" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：进度（报名）"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14558981" offsetX="25" offsetY="10" x="1459" y="544"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1567" y="553" textMaxWidth="100" offsetX="25" offsetY="10" text="20px&#xD;bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1097" y="146" textMaxWidth="100" offsetX="25" offsetY="10" text="hover页面同样参考“报名截止_hover”页面"/>
+  </Marks>
+</MKM>
