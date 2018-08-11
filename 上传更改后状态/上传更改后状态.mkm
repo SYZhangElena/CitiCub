@@ -1,0 +1,20 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e4%b8%8a%e4%bc%a0%e6%9b%b4%e6%94%b9%e5%90%8e%e7%8a%b6%e6%80%81/%e4%b8%8a%e4%bc%a0%e6%9b%b4%e6%94%b9%e5%90%8e%e7%8a%b6%e6%80%81.psd">
+  <Marks>
+    <LengthMark direction="12" color="16711680" length="228" x="461" y="538"/>
+    <LengthMark direction="3" color="16711680" length="186" x="453" y="546"/>
+    <LengthMark direction="12" color="16711680" length="40" x="689" y="557"/>
+    <LengthMark direction="12" color="16711680" length="228" x="729" y="537"/>
+    <LengthMark direction="3" color="16711680" length="186" x="724" y="545"/>
+    <LengthMark direction="12" color="16711680" length="40" x="958" y="548"/>
+    <LengthMark direction="12" color="16711680" length="228" x="997" y="536"/>
+    <LengthMark direction="3" color="16711680" length="186" x="992" y="545"/>
+    <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="3355443" offsetX="32" offsetY="21" x="339" y="582"/>
+    <LengthMark direction="12" color="16711680" length="46" x="416" y="560"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="516" y="138" textMaxWidth="100" offsetX="25" offsetY="10" text="除标注外，参照“未提交样图状态”页面"/>
+    <LengthMark direction="3" color="16711680" length="72" x="462" y="731"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="558" y="567" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：广告1&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="832" y="563" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：广告2"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1216" y="573" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：广告3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="679" y="834" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：上传作品&#xD;"/>
+  </Marks>
+</MKM>
