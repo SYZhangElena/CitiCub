@@ -34,5 +34,6 @@
     <ColorMark defaultDirection="5" colorSystem="hex" direction="5" color="16711680" targetColor="5092307" offsetX="53" offsetY="5" x="1181" y="1586"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="34246" offsetX="25" offsetY="10" x="1230" y="1677"/>
     <TextMark defaultDirection="10" direction="10" color="16711680" x="1187" y="1670" textMaxWidth="100" offsetX="70" offsetY="50" text="微软雅黑&#xD;19px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1209" y="1578" textMaxWidth="100" offsetX="69" offsetY="39" text="微软雅黑&#xD;18px"/>
   </Marks>
 </MKM>
