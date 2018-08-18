@@ -10,5 +10,17 @@
     <TextMark defaultDirection="9" direction="9" color="16711680" x="766" y="168" textMaxWidth="100" offsetX="25" offsetY="10" text="未标注部分参考“已报名状态”页面"/>
     <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="13258550" offsetX="34" offsetY="20" x="297" y="586"/>
     <TextMark defaultDirection="10" direction="10" color="16711680" x="309" y="584" textMaxWidth="100" offsetX="32" offsetY="32" text="微软雅黑&#xD;21px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="310" y="257" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：审"/>
+    <LengthMark direction="12" color="16711680" length="20" x="611" y="279"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="742" y="277" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;20px"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3178400" offsetX="25" offsetY="10" x="681" y="270"/>
+    <LengthMark direction="3" color="16711680" length="26" x="1386" y="198"/>
+    <LengthMark direction="12" color="16711680" length="42" x="1340" y="241"/>
+    <LengthMark direction="3" color="16711680" length="28" x="1389" y="252"/>
+    <LengthMark direction="3" color="16711680" length="18" x="1393" y="352"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1484" y="237" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;26px&#xD;bold"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6842472" offsetX="25" offsetY="10" x="1422" y="231"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6250335" offsetX="25" offsetY="10" x="1623" y="282"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="1540" y="318" textMaxWidth="100" offsetX="37" offsetY="14" text="微软雅黑&#xD;21px"/>
   </Marks>
 </MKM>

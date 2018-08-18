@@ -1,0 +1,25 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e8%a7%86%e9%a2%91%e5%88%a0%e9%99%a4%e7%a1%ae%e8%ae%a4/%e8%a7%86%e9%a2%91%e5%88%a0%e9%99%a4%e7%a1%ae%e8%ae%a4.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="982" y="111" textMaxWidth="100" offsetX="78" offsetY="37" text="颜色#000000&#xD;不透明度：20%"/>
+    <LengthMark direction="3" color="16711680" length="92" x="851" y="836"/>
+    <LengthMark direction="12" color="16711680" length="144" x="703" y="933"/>
+    <LengthMark direction="3" color="16711680" length="68" x="877" y="958"/>
+    <LengthMark direction="12" color="16711680" length="132" x="800" y="1020"/>
+    <LengthMark direction="3" color="16711680" length="50" x="795" y="1025"/>
+    <LengthMark direction="12" color="16711680" length="97" x="703" y="1020"/>
+    <LengthMark direction="3" color="16711680" length="300" x="699" y="836"/>
+    <LengthMark direction="12" color="16711680" length="530" x="704" y="830"/>
+    <LengthMark direction="12" color="16711680" length="82" x="931" y="1020"/>
+    <LengthMark direction="12" color="16711680" length="132" x="1013" y="1020"/>
+    <LengthMark direction="3" color="16711680" length="50" x="1009" y="1025"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="491982" offsetX="43" offsetY="28" x="897" y="1038"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3552822" offsetX="25" offsetY="10" x="1048" y="931"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10197915" offsetX="25" offsetY="10" x="1099" y="1045"/>
+    <ColorMark defaultDirection="10" colorSystem="hex" direction="10" color="16711680" targetColor="16776959" offsetX="21" offsetY="14" x="881" y="1040"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="906" y="935" textMaxWidth="100" offsetX="48" offsetY="41" text="微软雅黑&#xD;30px&#xD;regular"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="873" y="1058" textMaxWidth="100" offsetX="40" offsetY="40" text="微软雅黑&#xD;26px&#xD;regular"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1220" y="868" textMaxWidth="100" offsetX="29" offsetY="18" text="上下左右居中于页面主体部分（除导航栏和底部栏）"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="1069" y="856"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="625" y="83" textMaxWidth="100" offsetX="25" offsetY="10" text="除标注外，参照“上传_更改广告视频”页面"/>
+  </Marks>
+</MKM>

@@ -1,14 +1,14 @@
 <MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e6%9c%aa%e4%b8%8a%e4%bc%a0%e8%a7%86%e9%a2%91%e7%8a%b6%e6%80%81/%e6%9c%aa%e4%b8%8a%e4%bc%a0%e8%a7%86%e9%a2%91%e7%8a%b6%e6%80%81.psd">
   <Marks>
     <LengthMark direction="12" color="16711680" length="40" x="416" y="556"/>
-    <LengthMark direction="12" color="16711680" length="786" x="454" y="538"/>
+    <LengthMark direction="12" color="16711680" length="786" x="455" y="536"/>
     <LengthMark direction="3" color="16711680" length="30" x="450" y="547"/>
     <LengthMark direction="3" color="16711680" length="54" x="473" y="576"/>
-    <LengthMark direction="3" color="16711680" length="556" x="441" y="629"/>
+    <LengthMark direction="3" color="16711680" length="556" x="442" y="631"/>
     <LengthMark direction="12" color="16711680" length="786" x="455" y="619"/>
     <LengthMark direction="3" color="16711680" length="70" x="468" y="1184"/>
     <LengthMark direction="3" color="16711680" length="309" x="440" y="1253"/>
-    <LengthMark direction="12" color="16711680" length="784" x="454" y="1242"/>
+    <LengthMark direction="12" color="16711680" length="786" x="454" y="1242"/>
     <LengthMark direction="12" color="16711680" length="82" x="373" y="1257"/>
     <LengthMark direction="12" color="16711680" length="68" x="209" y="560"/>
     <LengthMark direction="3" color="16711680" length="70" x="338" y="477"/>
@@ -24,9 +24,9 @@
     <TextMark defaultDirection="9" direction="9" color="16711680" x="1224" y="685" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：上传视频"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="762" y="148" textMaxWidth="100" offsetX="25" offsetY="10" text="除标注外，其他部分参考&quot;报名已截止&quot;页面"/>
     <TextMark defaultDirection="6" direction="6" color="16711680" x="349" y="564" textMaxWidth="100" offsetX="31" offsetY="31" text="微软雅黑&#xD;20px&#xD;bold"/>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="1197" y="567" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;20px&#xD;"/>
-    <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="4868682" offsetX="36" offsetY="36" x="1145" y="557"/>
-    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13421772" offsetX="45" offsetY="32" x="1121" y="551"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1200" y="565" textMaxWidth="100" offsetX="46" offsetY="9" text="微软雅黑&#xD;18px&#xD;"/>
+    <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="16382457" offsetX="36" offsetY="36" x="1195" y="555"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="34246" offsetX="45" offsetY="32" x="1175" y="550"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="2105376" offsetX="32" offsetY="29" x="371" y="553"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="573" y="1259" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;20px"/>
     <ColorMark defaultDirection="6" colorSystem="hex" direction="6" color="16711680" targetColor="13224393" offsetX="24" offsetY="24" x="541" y="1267"/>
@@ -35,5 +35,9 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="34246" offsetX="25" offsetY="10" x="1230" y="1677"/>
     <TextMark defaultDirection="10" direction="10" color="16711680" x="1187" y="1670" textMaxWidth="100" offsetX="70" offsetY="50" text="微软雅黑&#xD;19px"/>
     <TextMark defaultDirection="9" direction="9" color="16711680" x="1209" y="1578" textMaxWidth="100" offsetX="69" offsetY="39" text="微软雅黑&#xD;18px"/>
+    <LengthMark direction="3" color="16711680" length="30" x="1165" y="546"/>
+    <LengthMark direction="12" color="16711680" length="72" x="1169" y="542"/>
+    <LengthMark direction="12" color="16711680" length="55" x="1115" y="542"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="1206" y="563" textMaxWidth="100" offsetX="31" offsetY="31" text="“浏览”文字，在蓝色方块中，上下左右居中"/>
   </Marks>
 </MKM>
