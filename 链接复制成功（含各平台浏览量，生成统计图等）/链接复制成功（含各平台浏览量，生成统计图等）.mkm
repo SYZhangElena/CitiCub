@@ -1,0 +1,29 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e9%93%be%e6%8e%a5%e5%a4%8d%e5%88%b6%e6%88%90%e5%8a%9f%ef%bc%88%e5%90%ab%e5%90%84%e5%b9%b3%e5%8f%b0%e6%b5%8f%e8%a7%88%e9%87%8f%ef%bc%8c%e7%94%9f%e6%88%90%e7%bb%9f%e8%ae%a1%e5%9b%be%e7%ad%89%ef%bc%89/%e9%93%be%e6%8e%a5%e5%a4%8d%e5%88%b6%e6%88%90%e5%8a%9f%ef%bc%88%e5%90%ab%e5%90%84%e5%b9%b3%e5%8f%b0%e6%b5%8f%e8%a7%88%e9%87%8f%ef%bc%8c%e7%94%9f%e6%88%90%e7%bb%9f%e8%ae%a1%e5%9b%be%e7%ad%89%ef%bc%89.psd">
+  <Marks>
+    <LengthMark direction="12" color="16711680" length="568" x="676" y="790"/>
+    <LengthMark direction="3" color="16711680" length="330" x="673" y="793"/>
+    <LengthMark direction="3" color="16711680" length="92" x="875" y="794"/>
+    <LengthMark direction="12" color="16711680" length="192" x="678" y="897"/>
+    <LengthMark direction="3" color="16711680" length="70" x="876" y="916"/>
+    <LengthMark direction="12" color="16711680" length="66" x="677" y="1017"/>
+    <LengthMark direction="12" color="16711680" length="32" x="827" y="1020"/>
+    <LengthMark direction="12" color="16711680" length="32" x="905" y="1021"/>
+    <LengthMark direction="12" color="16711680" length="32" x="982" y="1022"/>
+    <LengthMark direction="12" color="16711680" length="32" x="1059" y="1021"/>
+    <LengthMark direction="12" color="16711680" length="44" x="860" y="996"/>
+    <LengthMark direction="3" color="16711680" length="44" x="857" y="999"/>
+    <LengthMark direction="12" color="16711680" length="44" x="937" y="996"/>
+    <LengthMark direction="3" color="16711680" length="44" x="932" y="999"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1023" y="889" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;30px&#xD;bold&#xD;"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="794" y="1020" textMaxWidth="100" offsetX="44" offsetY="18" text="微软雅黑&#xD;26px&#xD;bold"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="754" y="1011"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3223857" offsetX="25" offsetY="10" x="908" y="890"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="893" y="1033" textMaxWidth="100" offsetX="20" offsetY="20" text="素材：QQ"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="960" y="1037" textMaxWidth="100" offsetX="29" offsetY="22" text="素材：微信"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1025" y="1010" textMaxWidth="100" offsetX="37" offsetY="28" text="素材:微博"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1120" y="1020" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：腾讯微博"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1027" y="106" textMaxWidth="100" offsetX="25" offsetY="10" text="#000000&#xD;不透明度20%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1192" y="50" textMaxWidth="100" offsetX="25" offsetY="10" text="除标注外，参照“企业评分_带logo的视频链接”页面"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1230" y="822" textMaxWidth="100" offsetX="25" offsetY="10" text="此模块在页面居中位置"/>
+  </Marks>
+</MKM>

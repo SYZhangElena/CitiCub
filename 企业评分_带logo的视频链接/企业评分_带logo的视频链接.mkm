@@ -1,0 +1,37 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e4%bc%81%e4%b8%9a%e8%af%84%e5%88%86_%e5%b8%a6logo%e7%9a%84%e8%a7%86%e9%a2%91%e9%93%be%e6%8e%a5/%e4%bc%81%e4%b8%9a%e8%af%84%e5%88%86_%e5%b8%a6logo%e7%9a%84%e8%a7%86%e9%a2%91%e9%93%be%e6%8e%a5.psd">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="68" x="304" y="476"/>
+    <LengthMark direction="12" color="16711680" length="72" x="373" y="555"/>
+    <LengthMark direction="12" color="16711680" length="72" x="373" y="769"/>
+    <LengthMark direction="3" color="16711680" length="198" x="312" y="568"/>
+    <LengthMark direction="3" color="16711680" length="38" x="1360" y="959"/>
+    <LengthMark direction="3" color="16711680" length="760" x="1329" y="201"/>
+    <LengthMark direction="3" color="16711680" length="58" x="1393" y="369"/>
+    <LengthMark direction="12" color="16711680" length="42" x="1341" y="446"/>
+    <LengthMark direction="3" color="16711680" length="32" x="1395" y="454"/>
+    <LengthMark direction="12" color="16711680" length="40" x="1532" y="440"/>
+    <LengthMark direction="3" color="16711680" length="3" x="1373" y="486"/>
+    <LengthMark direction="3" color="16711680" length="118" x="1417" y="369"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="733" y="146" textMaxWidth="100" offsetX="25" offsetY="10" text="除标注部分，参考“logo下载_带logo的视频上传”页面"/>
+    <LengthMark direction="12" color="16711680" length="68" x="210" y="557"/>
+    <LengthMark direction="3" color="16711680" length="38" x="468" y="793"/>
+    <LengthMark direction="12" color="16711680" length="782" x="445" y="752"/>
+    <LengthMark direction="12" color="16711680" length="792" x="444" y="539"/>
+    <LengthMark direction="3" color="16711680" length="32" x="440" y="763"/>
+    <LengthMark direction="3" color="16711680" length="48" x="1193" y="1387"/>
+    <LengthMark direction="12" color="16711680" length="110" x="1116" y="1428"/>
+    <LengthMark direction="3" color="16711680" length="44" x="1110" y="1434"/>
+    <LengthMark direction="12" color="16711680" length="780" x="446" y="829"/>
+    <LengthMark direction="3" color="16711680" length="552" x="440" y="835"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="653" y="564" textMaxWidth="100" offsetX="33" offsetY="24" text="微软雅黑&#xD;21px"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="5855320" offsetX="52" offsetY="21" x="584" y="551"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="7171437" offsetX="25" offsetY="10" x="684" y="775"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="802" y="781" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;19px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1462" y="431" textMaxWidth="100" offsetX="57" offsetY="34" text="微软雅黑&#xD;28px&#xD;bold"/>
+    <ColorMark defaultDirection="10" colorSystem="hex" direction="10" color="16711680" targetColor="7039851" offsetX="25" offsetY="19" x="1455" y="452"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14493441" offsetX="25" offsetY="10" x="1618" y="437"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="1602" y="452" textMaxWidth="100" offsetX="38" offsetY="20" text="微软雅黑&#xD;28px&#xD;bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1219" y="878" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：视频"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1730" y="424" textMaxWidth="100" offsetX="25" offsetY="10" text="因为查看实时数据在技术实现上比较困难，所以这里改成了总浏览次数，删除原型中“查看实时浏览量”页面"/>
+  </Marks>
+</MKM>
