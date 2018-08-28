@@ -1,0 +1,38 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e8%81%94%e7%b3%bb%e9%9b%87%e4%b8%bb/%e8%81%94%e7%b3%bb%e9%9b%87%e4%b8%bb.psd">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="84" x="630" y="648"/>
+    <LengthMark direction="12" color="16711680" length="378" x="505" y="689"/>
+    <LengthMark direction="12" color="16711680" length="912" x="504" y="646"/>
+    <LengthMark direction="3" color="16711680" length="692" x="498" y="649"/>
+    <LengthMark direction="3" color="16711680" length="60" x="668" y="732"/>
+    <LengthMark direction="12" color="16711680" length="84" x="505" y="802"/>
+    <LengthMark direction="3" color="16711680" length="48" x="603" y="817"/>
+    <LengthMark direction="12" color="16711680" length="744" x="588" y="857"/>
+    <LengthMark direction="3" color="16711680" length="304" x="582" y="866"/>
+    <LengthMark direction="3" color="16711680" length="64" x="1290" y="1170"/>
+    <LengthMark direction="3" color="16711680" length="50" x="1294" y="1292"/>
+    <LengthMark direction="12" color="16711680" length="190" x="1142" y="1226"/>
+    <LengthMark direction="3" color="16711680" length="58" x="1137" y="1234"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1415" y="658" textMaxWidth="100" offsetX="25" offsetY="10" text="此窗口位置居中&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1303" y="604" textMaxWidth="100" offsetX="25" offsetY="10" text="#000000&#xD;不透明度20%"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1250" y="1260" textMaxWidth="100" offsetX="30" offsetY="9" text="微软雅黑&#xD;20px&#xD;bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1096" y="880" textMaxWidth="100" offsetX="25" offsetY="10" text="微软雅黑&#xD;20px&#xD;"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="787" y="800" textMaxWidth="100" offsetX="25" offsetY="10" text="24px&#xD;bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1012" y="701" textMaxWidth="100" offsetX="25" offsetY="10" text="30px&#xD;bold"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1354" y="691" textMaxWidth="100" offsetX="25" offsetY="10" text="素材：关闭"/>
+    <LengthMark direction="3" color="16711680" length="28" x="1347" y="649"/>
+    <LengthMark direction="12" color="16711680" length="53" x="1362" y="703"/>
+    <LengthMark direction="12" color="16711680" length="30" x="1331" y="683"/>
+    <LengthMark direction="3" color="16711680" length="30" x="1326" y="677"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1020" y="682" textMaxWidth="100" offsetX="25" offsetY="10" text="#ffffff"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="701" y="800" textMaxWidth="100" offsetX="25" offsetY="10" text="#000000"/>
+    <ColorMark defaultDirection="10" colorSystem="hex" direction="10" color="16711680" targetColor="7105644" offsetX="36" offsetY="23" x="934" y="875"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="776" y="878" textMaxWidth="100" offsetX="32" offsetY="28" text="鼠标选中输入框时，语句消失，且用户输入的字的颜色为#000000"/>
+    <LengthMark direction="3" color="16711680" length="26" x="908" y="649"/>
+    <LengthMark direction="3" color="16711680" length="26" x="906" y="706"/>
+    <LengthMark direction="3" color="16711680" length="26" x="1345" y="706"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13355979" offsetX="25" offsetY="10" x="776" y="865"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1160" y="687" textMaxWidth="100" offsetX="25" offsetY="10" text="#2493D3"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="1196" y="1286" textMaxWidth="100" offsetX="19" offsetY="19" text="#2493D3"/>
+  </Marks>
+</MKM>
