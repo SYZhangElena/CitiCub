@@ -1,0 +1,10 @@
+<MKM version="2.0" imageFileUrl="file:///D:/Desktop/%e8%8a%b1%e6%97%97%e6%9d%af/%e8%ae%be%e8%ae%a1%e8%80%85Web_%e8%ae%be%e8%ae%a1%e5%9b%be/%e6%88%91%e7%9a%84%e4%bd%9c%e5%93%81/%e6%88%91%e7%9a%84%e4%bd%9c%e5%93%81_hover.psd">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="471" y="418" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停时，字体颜色变为#2493D3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="824" y="434" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停时，数字出现下划线"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="938" y="546" textMaxWidth="100" offsetX="25" offsetY="10" text="鼠标悬停时，方框和字颜色变为#2493D3"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1322" y="324" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，出现下划线"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="1632" y="319" textMaxWidth="100" offsetX="25" offsetY="10" text="悬停时，出现阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="865" y="666" textMaxWidth="100" offsetX="34" offsetY="34" text="悬停时，出现阴影"/>
+  </Marks>
+</MKM>
